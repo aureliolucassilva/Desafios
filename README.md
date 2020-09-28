@@ -10,7 +10,7 @@ Originiais e de minha autoria, se encontram organizados pela seguinte hierarquia
 7kyu <br/> 
 8kyu
 
-Baseados nos desafios propstos pelo site CodeWars, atualmente com mais de 2 milhões de usuários cadastrados.
+Baseados nos desafios propostos pelo site CodeWars, atualmente com mais de 2 milhões de usuários cadastrados.
 
 Perfil público:\
 https://preview.codewars.com/users/aureliolucassilva
