@@ -1,3 +1,5 @@
+<?php
+
 //Link -> https://www.codewars.com/kata/52742f58faf5485cae000b9a
 
 function format_duration($seconds) {
@@ -70,3 +72,5 @@ function format_duration($seconds) {
 
     return $time;
 }
+
+?>
