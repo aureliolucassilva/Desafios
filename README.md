@@ -1,4 +1,4 @@
-# Desafios
+# Descrição
 
 Coleção de soluões criadas para o treinamento e aprendizado das linguagens aqui destacadas. Desafios de origem do site CodeWars.
 
