@@ -1,3 +1,5 @@
+<?php
+
 //Link -> https://www.codewars.com/kata/520446778469526ec0000001
 
 function nestedA($arr, $x){
@@ -65,3 +67,5 @@ function same_structure_as(array $a, array $b): bool{
     if($GLOBALS['a'] === $GLOBALS['b']) return true;
     else return false;
 }
+
+?>
