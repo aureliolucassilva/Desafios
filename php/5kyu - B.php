@@ -1,3 +1,5 @@
+<?php
+
 //Link -> https://www.codewars.com/kata/57feb00f08d102352400026e
 
 function flap_display($lines, $rotors) {
@@ -25,3 +27,5 @@ function flap_display($lines, $rotors) {
 
      return $flap;
 }
+
+?>
