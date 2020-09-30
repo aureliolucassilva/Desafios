@@ -1,6 +1,6 @@
-# Fundamentos
+# Desafios
 
-Coleção de snippets de códigos criados para o treinamento e aprendizado dos fundamentos de cada linguagem aqui destacada. Baseados nos desafios propostos pelo site CodeWars.
+Coleção de soluões criadas para o treinamento e aprendizado das linguagens aqui destacadas. Desafios de origem do site CodeWars.
 
 Originiais e de minha autoria, se encontram organizados pela seguinte hierarquia de complexidade (Em ordem decrescente): <br/> 
 
@@ -9,6 +9,8 @@ Originiais e de minha autoria, se encontram organizados pela seguinte hierarquia
 6kyu <br/>
 7kyu <br/> 
 8kyu
+
+Cada arquivo contém o link para a descrição do desafio solucionado. Caso ainda não o tenha feito, favor não copiar minha solução ;)
 
 Perfil público:\
 https://preview.codewars.com/users/aureliolucassilva
