@@ -14,6 +14,4 @@ object Hello extends App{
     }
     return years
   }
-
-  println(nbYear(1000,2.0,50,1214))
 }
