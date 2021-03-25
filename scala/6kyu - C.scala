@@ -1,3 +1,5 @@
+// Link -> https://www.codewars.com/kata/54dc6f5a224c26032800005c
+
 object Hello extends App{
 
   def stockSummary(lstOfArt: Array[String], lstOfCat: Array[String]): String = {
