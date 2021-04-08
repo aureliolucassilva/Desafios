@@ -21,6 +21,4 @@ object Hello extends App{
 
     highest
   }
-
-  high("find or finda")
 }
